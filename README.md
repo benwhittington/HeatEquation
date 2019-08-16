@@ -1,2 +1,2 @@
 # HeatEquation
-Animates temperature decae for arbitrary inital temperature function
+Animates temperature decay for arbitrary inital temperature function
